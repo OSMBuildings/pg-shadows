@@ -1,8 +1,8 @@
 # pg-shadows
 
-Shadow calculation in PostGIS
+This custom function adds shadow calculation to PostGIS.
 
-This custom function adds schadow calculation to PostGIS.
+<img src="https://github.com/OSMBuildings/pg-shadows/blob/master/Screenshot%202018-01-16%2010.39.34.png" height="400">
 
 ## Usage
 
